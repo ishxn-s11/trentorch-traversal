@@ -7,5 +7,7 @@ TrenTorch is an open-source learning platform designed to help developers unders
 Instead of only learning theory or relying on existing frameworks, you build the underlying components yourself, solve practical problems, and develop a deeper understanding of how modern ML systems work.
 
 🌐 Website: https://trentorch.com
+
 👤 Account: https://trentorch.com/accounts/@ishxn_s11
+
 💻 Source code: https://github.com/TrenTorch/TrenTorch
